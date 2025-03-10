@@ -12,5 +12,8 @@
 使用技術
 　　mysql:8.0.26
   　docker:3.8
-   
+
+URL
+ phpMyAdmin http://localhost:8080/ 
+ 開発環境　http://localhost/
    
